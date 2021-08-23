@@ -1,0 +1,47 @@
+body{
+    margin-left:0%;
+    margin-right: 0%;
+}
+:root{
+    --primary-color:#E3F926
+}
+
+.container{
+    background-color: var(--primary-color);
+    border:1px solid black;
+    padding-bottom: 4rem;
+    
+}
+.adjust{
+    display:block;
+    width:35vw;
+    margin:auto
+}
+h1{
+    padding-top:2vh;
+    text-align: center;
+    padding-bottom: 2vh;
+    
+}
+#take-number{
+    width:40vw;
+    padding:2rem;
+    text-align: center;
+    margin-left: 28vw; 
+
+    font-weight: bolder;
+}
+
+#checkbtn{
+    width:40vw;
+    padding:1.5rem;
+    text-align: center;
+    margin-left:31vw;
+    font-weight: bold;
+}
+footer{
+    padding-top: 0.5rem;
+    text-align:center;
+    font-style:oblique;
+    font-weight: bold;
+}
